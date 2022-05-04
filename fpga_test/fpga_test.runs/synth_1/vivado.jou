@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Apr  9 09:54:22 2022
+# Process ID: 2652
+# Current directory: C:/F/Christ BS/sem6/vlsi/lab/fpga_test/fpga_test.runs/synth_1
+# Command line: vivado.exe -log and_gpga_test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source and_gpga_test.tcl
+# Log file: C:/F/Christ BS/sem6/vlsi/lab/fpga_test/fpga_test.runs/synth_1/and_gpga_test.vds
+# Journal file: C:/F/Christ BS/sem6/vlsi/lab/fpga_test/fpga_test.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source and_gpga_test.tcl -notrace

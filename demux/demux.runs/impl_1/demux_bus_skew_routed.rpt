@@ -1,0 +1,15 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Wed Apr  6 16:31:25 2022
+| Host         : quicksilver running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file demux_bus_skew_routed.rpt -pb demux_bus_skew_routed.pb -rpx demux_bus_skew_routed.rpx
+| Design       : demux
+| Device       : 7z030-fbg484
+| Speed File   : -1  PRODUCTION 1.12 2019-11-22
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

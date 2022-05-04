@@ -1,0 +1,1 @@
+-wto "f765be45302c48d6941accdb044e094e" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_fourbitasyncup_behav" "xil_defaultlib.tb_fourbitasyncup" "xil_defaultlib.glbl" -log "elaborate.log" 

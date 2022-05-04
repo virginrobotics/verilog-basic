@@ -1,0 +1,7 @@
+Running: xsim.dir/ligma_test_behav/xsimk.exe -simmode gui -wdb ligma_test_behav.wdb -simrunnum 0 -socket 61267
+Design successfully loaded
+Design Loading Memory Usage: 6440 KB (Peak: 6440 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 7076 KB (Peak: 7076 KB)
+Simulation CPU Usage: 46 ms

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/F/Christ BS/sem6/vlsi/lab/fourbit_syncup/fourbit_syncup.srcs/sources_1/new/fourbit_syncup.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fourbit_syncup
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/F/Christ BS/sem6/vlsi/lab/jk_flipflopbehav/jk_flipflopbehav.srcs/sources_1/new/jk_flipflopbehav.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jk_flipflopbehav
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/F/Christ BS/sem6/vlsi/lab/fourbit_syncup/fourbit_syncup.srcs/sim_1/new/tb_fourbitsyncup.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fourbitsyncup

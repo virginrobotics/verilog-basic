@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/F/Christ BS/sem6/vlsi/lab/expvlsipt2/expvlsipt2.srcs/sources_1/new/4_1_mux_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4x1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/F/Christ BS/sem6/vlsi/lab/expvlsipt2/expvlsipt2.srcs/sim_1/new/tb_4x1_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_4x1_mux

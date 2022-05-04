@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  3 15:27:47 2022
+# Process ID: 4388
+# Current directory: C:/F/Christ BS/sem6/vlsi/lab/latchvhdl/latchvhdl.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/F/Christ BS/sem6/vlsi/lab/latchvhdl/latchvhdl.sim/sim_1/behav/xsim/xsim.dir/tb_Decoder_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/F/Christ BS/sem6/vlsi/lab/latchvhdl/latchvhdl.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/F/Christ BS/sem6/vlsi/lab/latchvhdl/latchvhdl.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/F/Christ -notrace

@@ -1,0 +1,17 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto cc39e9a7a64140df94b11e01eed59e5a --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot DFF_tb_behav xil_defaultlib.DFF_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-4940] 'd_flipflop_source' remains a black box since it has no binding entity [C:/F/Christ BS/sem6/vlsi/lab/dflipflopvhdl/dflipflopvhdl.srcs/sim_1/new/tb_dflipflopvhdl.vhd:40]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture tb of entity xil_defaultlib.dff_tb
+Built simulation snapshot DFF_tb_behav

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Mar 30 21:56:38 2022
+# Process ID: 1960
+# Current directory: C:/F/Christ BS/sem6/vlsi/lab/fourbit_syncup/fourbit_syncup.runs/synth_1
+# Command line: vivado.exe -log fourbit_syncup.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fourbit_syncup.tcl
+# Log file: C:/F/Christ BS/sem6/vlsi/lab/fourbit_syncup/fourbit_syncup.runs/synth_1/fourbit_syncup.vds
+# Journal file: C:/F/Christ BS/sem6/vlsi/lab/fourbit_syncup/fourbit_syncup.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source fourbit_syncup.tcl -notrace

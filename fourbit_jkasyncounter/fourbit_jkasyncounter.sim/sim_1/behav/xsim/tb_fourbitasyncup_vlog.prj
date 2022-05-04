@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../fourbit_jkasyncounter.srcs/sources_1/new/fourbitasyncup.v" \
+"../../../../../jk_flipflopbehav/jk_flipflopbehav.srcs/sources_1/new/jk_flipflopbehav.v" \
+"../../../../fourbit_jkasyncounter.srcs/sim_1/new/tb_fourbitasyncup.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

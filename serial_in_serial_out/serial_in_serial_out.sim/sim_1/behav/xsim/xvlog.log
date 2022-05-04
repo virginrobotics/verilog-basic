@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/F/Christ BS/sem6/vlsi/lab/serial_in_serial_out/serial_in_serial_out.srcs/sources_1/new/siso.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module siso
+INFO: [VRFC 10-311] analyzing module dff
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/F/Christ BS/sem6/vlsi/lab/serial_in_serial_out/serial_in_serial_out.srcs/sim_1/new/siso_sim_lfgoo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module siso_sim_lfgoo
